@@ -1,0 +1,6 @@
+{
+  "name": "VoltPulse Energy Trading",
+  "description": "Institutional energy trading platform specializing in cross-border power arbitrage, algorithmic battery storage dispatch, and renewable grid balancing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
